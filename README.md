@@ -6,7 +6,7 @@ This project involves building a **Face Recognition System** using **Principal C
 
 ## 📁 Dataset
 
-We use a facial image dataset available here:  
+We use a facial image dataset available here:   PROVIDED BY INTERNSHIP STUDIO
 🔗 [Face Dataset (GitHub)](https://github.com/robaita/introduction_to_machine_learning/blob/main/dataset.zip)
 
 ---
