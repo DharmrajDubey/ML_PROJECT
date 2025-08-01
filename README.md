@@ -80,6 +80,8 @@ We use a facial image dataset available here:   PROVIDED BY INTERNSHIP STUDIO
 
 ## 📄 Reference
 
+Artificial Intelligence course by INTERNSHIP STUDIO
+---
 Turk, M., & Pentland, A. (1991). **Eigenfaces for recognition**. Journal of Cognitive Neuroscience.
 
 ---
